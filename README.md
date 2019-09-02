@@ -1,4 +1,4 @@
-# Movie-Recommnder
+# Movie-Recommender
 
 1) Downlaod the Dataset from:
 https://www.kaggle.com/rounakbanik/the-movies-dataset
